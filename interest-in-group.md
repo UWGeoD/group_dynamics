@@ -25,7 +25,7 @@ Advantages of joining the group:
 - Participate in state-of-the-art research as the leader of a project.
 - Gain research experience that is valuable for graduate school and industry jobs.
 - Plenty of opportunities to improve science communication (talks, posters, papers).
-- Co-authorship on publications produced in the group with your contribution (read the [authorship guidelines](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/authorship.md))
+- Co-authorship on publications produced in the group with your contribution (read the [authorship guidelines](https://github.com/UWGeoD/group_dynamics/blob/main/authorship.md))
 - Network with other students in the group and in Engineering, Geoscience, and Computer Science.
 - Strong commitment to mentoring by me and other senior students in the group.
 - Support with grad school/job applications as well as carefully written honest letters of recommendation highlighting your strengths in research.
@@ -43,7 +43,7 @@ Research is highly multi-disciplinary! So, I welcome graduate students intereste
 
 Next steps for you:
 - Read more about the [group research](https://geod.wisc.edu/research/) and identify projects that interest you. This site is updated on a somewhat regular basis.
-- Read the [group guidelines](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/group-guidelines.md)
+- Read the [group guidelines](https://github.com/UWGeoD/group_dynamics/blob/main/group-guidelines.md)
 - Feel free to email me if you are interested in working with me and have questions regarding the application.
     - Make sure to include your CV and unofficial transcript in the email as well as details on what specific projects or recent articles attract you from the group.
     - If you have read the group guidelines, make sure to comment on this too in your email.
@@ -60,7 +60,7 @@ Next steps for you:
     - Participate in state-of-the-art research as the leader of a project.
     - Gain research experience that is valuable for postdoc positions, faculty roles, and industry jobs.
     - Plenty of opportunities to improve science communication (talks, posters, papers).
-    - Co-authorship on publications produced in the group with your contribution (read the [authorship guidelines](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/authorship.md))
+    - Co-authorship on publications produced in the group with your contribution (read the [authorship guidelines](https://github.com/UWGeoD/group_dynamics/blob/main/authorship.md))
     - Network with other students in the group.
     - Strong commitment to mentoring by me and other senior students in the group.
     - Support with grad school/job applications as well as carefully written honest letters of recommendation highlighting your strengths in research.
@@ -74,11 +74,11 @@ Next steps:
 I am interested in collaborating with postdocs with any research background.
 
 Postdocs in the group are expected to lead projects and grow as fully independent researchers, so in order to start a conversation, you need to:
-- Read the [group guidelines](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/group-guidelines.md)
-- Read the [authorship guidelines](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/authorship.md)
-- Read the [postdoc guidelines](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/postdoc-guidelines.md)
+- Read the [group guidelines](https://github.com/UWGeoD/group_dynamics/blob/main/group-guidelines.md)
+- Read the [authorship guidelines](https://github.com/UWGeoD/group_dynamics/blob/main/authorship.md)
+- Read the [postdoc guidelines](https://github.com/UWGeoD/group_dynamics/blob/main/postdoc-guidelines.md)
 - Be familiar with [research in the lab](https://geod.wisc.edu/research/) and read several recent papers produced by the group.
-- Identify a project (or several projects) that you would like to work on and start pitching ideas in a rustic [project plan](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/project-plan.md) (goal, background, objectives). I am happy to fall outside of the group's comfort zone if you have a good project plan! In fact, some of the most exciting projects we have ongoing are new topics and ideas that even I have no experience with.
+- Identify a project (or several projects) that you would like to work on and start pitching ideas in a rustic [project plan](https://github.com/UWGeoD/group_dynamics/blob/main/project-plan.md) (goal, background, objectives). I am happy to fall outside of the group's comfort zone if you have a good project plan! In fact, some of the most exciting projects we have ongoing are new topics and ideas that even I have no experience with.
 
 Send me an email (subject "Postdoc application") with:
 - CV
@@ -92,7 +92,7 @@ Send me an email (subject "Postdoc application") with:
 
 First of all, great idea to pursue your own sources of funding! This not only gives you the flexibility to work on the project you love, but it also builds a stronger CV with evidence of external funding.
 
-I am happy to serve as your postdoc supervisor on any postdoc fellowship/awards/grants and even help you with the application. To find some options for postdoc funding (some do not require citizenship), see [here](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/resources.md).
+I am happy to serve as your postdoc supervisor on any postdoc fellowship/awards/grants and even help you with the application. To find some options for postdoc funding (some do not require citizenship), see [here](https://github.com/UWGeoD/group_dynamics/blob/main/resources.md).
 
 Send me an email (subject "Postdoc application with own funding") with:
 - CV
