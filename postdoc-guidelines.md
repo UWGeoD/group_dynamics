@@ -15,8 +15,8 @@
 - Aside from your academic success, your emotional and physical well-being will always be a priority in the group
 
 ### What is expected of you:
-- You will read and follow the group guidelines: see [here](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/group-guidelines.md)
-- You will write the project plan (see format [here](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/project-plan.md)) for the project that we agree to work on together (described in a separate document) within ___ weeks of your arrival to the lab.
+- You will read and follow the group guidelines: see [here](https://github.com/UWGeoD/group_dynamics/blob/main/group-guidelines.md)
+- You will write the project plan (see format [here](https://github.com/UWGeoD/group_dynamics/blob/main/project-plan.md)) for the project that we agree to work on together (described in a separate document) within ___ weeks of your arrival to the lab.
     - The project plan should be the first item to agree on as it will guide the whole project.
     - We can discuss and revise this document together before the final version we agree on--but we can also expect this plan to evolve as the research necessitates.
 - You will have the intellectual freedom to propose how the project(s) should be tackled and your strategy will be reflected in the project plan that we will both agree on.
