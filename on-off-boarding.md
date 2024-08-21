@@ -1,7 +1,7 @@
 # Onboarding steps
 
-1. Read the [group guidelines](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/group-guidelines.md).
-2. If you are a grad student or postdoc, start thinking about your [project plan](https://github.com/solislemuslab/lab-dynamics/blob/master/project-plan.md)
+1. Read the [group guidelines](https://github.com/UWGeoD/group_dynamics/blob/main/group-guidelines.md).
+2. If you are a grad student or postdoc, start thinking about your [project plan](https://github.com/UWGeoD/group_dynamics/blob/main/project-plan.md)
 3. Get excited about what we can do! 
 
 
