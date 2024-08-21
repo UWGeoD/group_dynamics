@@ -35,4 +35,4 @@ This 11 step process should ideally be written in bullet-point form in the begin
     - Obtaining approval of all co-authors on the final draft, and
     - Understanding the general principles of **all the work** included in the manuscript.
 
-- Another common deliverable will be open-source software. Keep in mind that there is a huge gap between code that runs, and code that is suitable for publication and you should consider this in your timeline. Follow reproducibility practices and best computing practices (examples in [lab guidelines](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/group-guidelines.md)).
+- Another common deliverable will be open-source software. Keep in mind that there is a huge gap between code that runs, and code that is suitable for publication and you should consider this in your timeline. Follow reproducibility practices and best computing practices (examples in [group guidelines](https://github.com/UWGeoD/group_dynamics/blob/main/group-guidelines.md)).
