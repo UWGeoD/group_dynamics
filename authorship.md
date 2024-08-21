@@ -4,7 +4,7 @@
 - Others who help over the course of the project will have the opportunity to earn co-authorship
 - We are open to collaborations with equal contributions and first co-authorship
 - The first author is responsible for:
-    - Writing the [project plan](https://github.com/UWGeoD/group_info/blob/hamptonjesse-patch-1/project-plan.md) (often in collaboration with other members of the research team)
+    - Writing the [project plan](https://github.com/UWGeoD/group_dynamics/blob/main/project-plan.md) (often in collaboration with other members of the research team)
     - Leading the project
     - Conducting all analyses
     - Writing the manuscript
