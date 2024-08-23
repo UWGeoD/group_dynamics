@@ -1,4 +1,4 @@
-There are several specific requirements for the PhD degree that represent key milestones in the degree progression. A general overview of this process can be found in the [Civil and Environmental Engineering](https://engineering.wisc.edu/wp-content/uploads/2022/01/CEE_GraduateProgramHandbook_2023-2024.pdf) and [Geological Engineering](https://engineering.wisc.edu/wp-content/uploads/2022/01/GLE_GraduateProgramHandbook.pdf) Handbooks. Specifics of these requirements varies slightly in different groups so this section lays out the specifics in our group.
+There are several specific requirements for the PhD degree that represent key milestones in the degree progression. A general overview of this process can be found in the [Civil and Environmental Engineering (Geological Engineering included in this Handbook)](https://engineering.wisc.edu/wp-content/uploads/2024/08/CEEDepartment_GraduateHandbook_2024_2025.pdf) Handbooks. Specifics of these requirements varies slightly in different groups so this section lays out the specifics in our group.
 
 
 # Assessment and Qualifying Exam
